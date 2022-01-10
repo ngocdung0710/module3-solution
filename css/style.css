@@ -1,0 +1,32 @@
+@charset "utf-8";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand {
+    color: #000;
+}
+a:hover.navbar-brand {
+    color: black;
+}
+.nav-link {
+    color: black;
+}
+a:hover.nav-link {
+    color: #FFEEAD;
+}
+.nav-color {
+    background-color: #D9534F;
+}
+h2 {
+    color: #96CEB4;
+}
+p {
+    background-color: #FFEEAD;
+    padding: 20px;
+    font-size: 16px;
+}
+.navbar-nav .nav-link {
+    text-align: center; 
+}
